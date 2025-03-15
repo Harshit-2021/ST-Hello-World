@@ -1,5 +1,5 @@
 import streamlit as s
 
-s.writer("Hello World")
+s.write("Hello World")
 
 
